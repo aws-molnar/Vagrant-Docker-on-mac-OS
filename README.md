@@ -15,7 +15,7 @@ Follow these instructions to fix: https://stackoverflow.com/questions/65896681/e
 2. Download the `install.sh` script, review and customize
 3. Run `install.sh` from the terminal
 
-## What does it do?
+## What it does?
 The install script performs the following steps:
 1. install required packages for mac OS, including VirtualBox, Vagrant, and Docker
 2. create `Vagrant` and `provision.sh` configuration files in the folder `vagrant-docker-engine`
